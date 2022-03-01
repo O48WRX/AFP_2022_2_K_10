@@ -7,3 +7,5 @@
 ## 3. Vágyálomrendszer
 
 ## 4. Funkcionális követelmények
+
+## 5. Rendszerre vonatkozó törvények, szabványok, ajánlások
