@@ -9,3 +9,5 @@
 ## 4. Üzleti folyamatok modellje
 
 ## 5. Fizikai környezet
+
+## 6. Funkcionális terv
