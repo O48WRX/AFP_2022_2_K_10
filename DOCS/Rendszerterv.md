@@ -1,6 +1,7 @@
 # ﻿Rendszerterv
 
 ## 1. Rendszer célja
+A rendszer célja, hogy Google Colab segítségével egy olyan szolgáltatást nyújtson a felhasználóknak, ahol a felhasználók saját tanuló és tesztelő adatbázist adhassanak meg, és tesztelhessék a gépi tanulást. Fő cél, hogy a gép által adott válaszokat és azok pontosságát tudjuk szemléltetni.
 
 ## 2. Követelmények
 
