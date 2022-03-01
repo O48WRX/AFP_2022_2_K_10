@@ -25,8 +25,8 @@ Bármilyen operációs rendszeren képes futni.
 
 ## 6. Funkcionális terv
 
-Rendszerszereplő: 
-        - Felhasználó: A programnak nincs más szereplője, csak az kód felhasználója, aki kiválasztja az adatbázisokat és azzal tanítja a gépet.
+Rendszerszereplő:
+- Felhasználó: A programnak nincs más szereplője, csak az kód felhasználója, aki kiválasztja az adatbázisokat és azzal tanítja a gépet.
 
 ## 7. Architekturális terv
 A kód használatához mindössze egy böngésző használatára van szükség, valamint rendelkezni kell a használni kívánt adatbázisokkal.
