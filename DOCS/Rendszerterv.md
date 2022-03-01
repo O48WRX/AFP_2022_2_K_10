@@ -10,6 +10,10 @@ A rendszer célja, hogy Google Colab segítségével egy olyan szolgáltatást n
         - Az alkalmazás abszolút minimális gépigénnyel rendelkezik, mivel a Google szerverein számol.
 
 ## 3. Projekt terv
+A projekt nem különül el front end és backend részre, mivel nem rendelkezik frontenddel:
+
+        -Logika: Hatékony, lehető leggyorsabb kód megvalósítása
+                -Felelősök: Kardos Zsolt (O48WRX), Balogh Mihály Viktor (GUFVXA), Riczkó Henrik (D5GPJ6), Hadobás Dávid (TB3376)
 
 ## 4. Üzleti folyamatok modellje
 
