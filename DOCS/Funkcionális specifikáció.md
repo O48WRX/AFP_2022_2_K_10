@@ -19,6 +19,7 @@ Az alkalmazásunk létrehozásának alapfeltétele, hogy Python programozási ny
 A gépi tanulási algoritmusok használatára kevés olyan online platform van ami egyszerűen használható, komoly hátrányuk a bonyolult regisztráció és a túlkomplikált kezelőfelület. Mindezek tekintetében arra jutottunk, hogy egy ingyenes, regisztrációmentes, könnyen kezelhető machine learning programot hozunk létre, amely egyszerű kezelőfelülettel rendelkezik, mégis minőségi kimutatásokat lehet benne létrehozni. 
 
 ## 6. Igényelt üzleti folyamatok modellje
+Ezt a programot azért hozzuk létre, hogy a felhasználók a szabadidejükben tudjanak gépi tanulási algoritmus(oka)t alkalmazni költségvetés, regisztráció és személyi adatok kiadása nélkül. A projektünk adatbázisokkal lesz kapcsolatban, melyek feltöltés után lesznek kezelhetőek. A regisztrációmentes előnynek köszönhetően percek alatt már a programfelületet logikusan tudjuk kezelni, az adattáblák, a program kialakítása és kezelőfelülete nem igényel különösebb hozzáértést az alkalmi felhasználóktól.
 
 ## 7. Használati esetek
 
