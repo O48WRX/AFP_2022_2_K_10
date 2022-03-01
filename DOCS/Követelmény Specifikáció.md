@@ -24,5 +24,6 @@ A projekt egy szimpla webes alkalmazásnak felel meg, ami egyetemi hallgatói li
 A neurális hálozatok és gépi tanulás folyamatainak megértéséhez egyetemi kurzusokat, több hónapos tanulást igényel. Ahoz, hogy meg tudjuk érteni szükség van arra, hogy tesztelni tudjuk milyen problémára milyen neurális hálózat lenne a legmegfelelőbb hatékonyság és pontosság szempontjából. Erre készült programok általában fizetősek vagy nehezen kezelhetőek, és emiatt sokan felhagynak a gépi tanulás megértésével. 
 
 ## 7. Igényelt üzleti folyamatok modellje
+Projektünkkel igyekszünk egy letisztult, könnyen kezelhető webes szoftvert nyújtani a felhasználók számára. A szolgáltatásunk nem igényel regisztrációt, sem financiális beruházást további használat után sem. Az applikáció egy jól megszokott, valamint új felhasználók számára könnyen értelmezhető menürendszer alapján működik, amiben el lehet érni az alkalmazás különböző funkcióit, pl.: Adatbázisok beadása, Súgó/segítség. Az alkalmazásunk könnyű kezelhetőségével, minimális szoftverismereti igényével szeretnénk kitűnni a versenytársaink közül, többek között azzal is, hogy tudjuk mennyire fontos a magánszemélyek számára az adataik védelme, így mi nem is kérünk semmilyen adatot a felhasználóinktól.
 
 ## 8.Fogalomszótár
