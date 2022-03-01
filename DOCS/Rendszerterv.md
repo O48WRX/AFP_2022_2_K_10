@@ -37,6 +37,8 @@ A fejlesztés során szükséges a folytonos tesztelés, amellyel a felmerülő 
 
 ## 9. Telepítési terv
 
+A kód, ahogy már a dokumentációban többször is említve lett, nem igényel telepítést. Böngésző és Google Colab használatával elérhető bárki számára. A kód több package-et fog implementálni.
+
 ## 10. Karbantartási terv
 
 ## 11. Implementációs terv
