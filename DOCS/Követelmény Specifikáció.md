@@ -18,6 +18,7 @@ A projekt egy webes alkalmazás, amihez Google Colab-ot használunk, így funkci
 Egyéb követelményekről (2022.03.01) nem beszélhetünk.
 
 ## 5. Rendszerre vonatkozó törvények, szabványok, ajánlások
+A projekt egy szimpla webes alkalmazásnak felel meg, ami egyetemi hallgatói licensszel készül egyetemi kurzusra, így sem legálisan, sem morálisan nem lenne megfelelő a csapat részéről, ha nem ingyenesen és open-source fejlesztésben végeznénk.
 
 ## 6. Jelenlegi üzleti folyamatok modellje
 
