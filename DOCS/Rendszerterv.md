@@ -7,3 +7,5 @@
 ## 3. Projekt terv
 
 ## 4. Üzleti folyamatok modellje
+
+## 5. Fizikai környezet
