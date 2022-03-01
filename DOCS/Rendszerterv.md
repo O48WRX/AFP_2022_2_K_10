@@ -5,6 +5,10 @@ A rendszer célja, hogy Google Colab segítségével egy olyan szolgáltatást n
 
 ## 2. Követelmények
 
+        - A fejlesztés Python(Google Colab) segítségével történik.
+        - Az alkalmazás kompatibilis minden operációs rendszerrel ami rendelkezik böngészővel és internet kapcsolattal.
+        - Az alkalmazás abszolút minimális gépigénnyel rendelkezik, mivel a Google szerverein számol.
+
 ## 3. Projekt terv
 
 ## 4. Üzleti folyamatok modellje
