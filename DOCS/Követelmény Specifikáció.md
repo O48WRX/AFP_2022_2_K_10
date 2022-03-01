@@ -5,3 +5,5 @@
 ## 2. Jelenlegi helyzet
 
 ## 3. Vágyálomrendszer
+
+## 4. Funkcionális követelmények
