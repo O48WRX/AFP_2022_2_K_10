@@ -33,6 +33,8 @@ A kód használatához mindössze egy böngésző használatára van szükség, 
 
 ## 8. Tesztterv
 
+A fejlesztés során szükséges a folytonos tesztelés, amellyel a felmerülő hibákat ki tudjuk küszöbölni. Ellenőrizni kell az algoritmusok és kimutató funkciók pontosságát.
+
 ## 9. Telepítési terv
 
 ## 10. Karbantartási terv
