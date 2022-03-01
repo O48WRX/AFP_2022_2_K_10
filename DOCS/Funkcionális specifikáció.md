@@ -7,6 +7,7 @@ A célunk a szolgáltatással, hogy megkönnyítsük az átlag ember számára e
 Az alkalmazás a webhelyén bármikor elérhető, ezáltal internetelérést igényel a teljes felhasználáshoz.
 
 ## 2. Jelenlegi helyzet
+A megrendelő egy böngészőben elérhető programot szeretne, amely egy, a felhasználó által megadott adatbázisra alkalmaz egy gépi tanulási algoritmust. Az említett alkalmazást a megrendelő szabadon akarja felhasználni, összesen egy böngésző felhasználásával. Az ügyfél ragaszkodott egy egyszerű, kevés beletanulást igénylő felülethez, ami azoknak is könnyűvé teszi a kimutatás elkészítését, akik semmilyen statisztikai vagy algoritmushasználó tapasztalattal nem rendelkeznek. Jelenleg a program létrehozásához, elkészítéséhez szükséges adatokat, tevékenységeket discord segítségével, minden héten, hetente többször is egyeztetjük.
 
 ## 3. Vágyálom rendszer
 
