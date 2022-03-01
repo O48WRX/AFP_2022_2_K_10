@@ -13,3 +13,5 @@
 ## 6. Jelenlegi üzleti folyamatok modellje
 
 ## 7. Igényelt üzleti folyamatok modellje
+
+## 8.Fogalomszótár
