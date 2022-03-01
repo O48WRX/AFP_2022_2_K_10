@@ -1,7 +1,10 @@
 # Követelmény specifikáció
 
 ## 1. Áttekintés
-
+A projektünk egy colabon alapuló ismert neurális hálók pontosságának mérését végző program,
+ami számadatokkal és grafikusan is ábrázolja a végzett mérések eredményét.
+A megvalósításához Pythont(Google Colab) fogunk használni.
+A szolgáltatás teljesen ingyenes és egy átlátható, könnyen kezelhető felülettel rendelkezik.
 ## 2. Jelenlegi helyzet
 
 ## 3. Vágyálomrendszer
