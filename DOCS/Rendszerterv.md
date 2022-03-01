@@ -41,4 +41,6 @@ A kód, ahogy már a dokumentációban többször is említve lett, nem igényel
 
 ## 10. Karbantartási terv
 
+A kód bővítésére a kész állapot után valószínűleg nem lesz szükség, mivel nem igényel túl sok karbantartást. A továbbfejlesztésre viszont lesz lehetőség, például pontosság javítására, amit tervezünk.
+
 ## 11. Implementációs terv
