@@ -19,6 +19,9 @@ A projekt nem különül el front end és backend részre, mivel nem rendelkezik
 //!!!TODO RAJZ!!!!
 
 ## 5. Fizikai környezet
+A rendszer megvalósítására Python-t fogunk használni a Google Colab segítségével.
+Minimális gépigényre van szükség, mivel a kód a Google szerverein fog futni. Így a felhasználónak egy böngésző futtatására kell eléggé felszerelt géppel rendelkeznie.
+Bármilyen operációs rendszeren képes futni.
 
 ## 6. Funkcionális terv
 
