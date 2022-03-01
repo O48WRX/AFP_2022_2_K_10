@@ -22,6 +22,11 @@ A gépi tanulási algoritmusok használatára kevés olyan online platform van a
 Ezt a programot azért hozzuk létre, hogy a felhasználók a szabadidejükben tudjanak gépi tanulási algoritmus(oka)t alkalmazni költségvetés, regisztráció és személyi adatok kiadása nélkül. A projektünk adatbázisokkal lesz kapcsolatban, melyek feltöltés után lesznek kezelhetőek. A regisztrációmentes előnynek köszönhetően percek alatt már a programfelületet logikusan tudjuk kezelni, az adattáblák, a program kialakítása és kezelőfelülete nem igényel különösebb hozzáértést az alkalmi felhasználóktól.
 
 ## 7. Használati esetek
+A felhasználó az alábbi tevékenységeket végezheti:
+- A használni kívánt tanulóalgoritmus kiválasztása néhány választás közül
+- A tanulási alapként szolgáló adatbázis meghatározása
+- A műveletek elvégzési helyéül szolgáló adatbázis feltöltése
+- A tanulási folyamat elindítása
 
 ## 8. Képernyőtervek
 
