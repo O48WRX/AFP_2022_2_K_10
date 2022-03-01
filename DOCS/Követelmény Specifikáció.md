@@ -9,3 +9,5 @@
 ## 4. Funkcionális követelmények
 
 ## 5. Rendszerre vonatkozó törvények, szabványok, ajánlások
+
+## 6. Jelenlegi üzleti folyamatok modellje
