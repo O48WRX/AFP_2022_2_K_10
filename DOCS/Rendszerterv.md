@@ -5,3 +5,5 @@
 ## 2. Követelmények
 
 ## 3. Projekt terv
+
+## 4. Üzleti folyamatok modellje
