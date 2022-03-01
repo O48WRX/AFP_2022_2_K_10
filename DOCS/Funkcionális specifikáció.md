@@ -7,3 +7,5 @@
 ## 3. Vágyálom rendszer
 
 ## 4. Feltételek
+
+## 5. Jelenlegi üzleti folyamatok modellje
