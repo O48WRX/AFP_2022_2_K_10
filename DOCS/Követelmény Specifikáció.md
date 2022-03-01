@@ -13,6 +13,9 @@ Az informatika rohamos fejlődésének köszönhetően a mesterséges intelligen
 Csapatunk célja, hogy létrehozzunk egy felhasználóbarát felülettel rendelkező, könnyen elérhető és használható szolgáltatást ami segít kiválasztani egy adott problémára a megfelelő neurális hálózatot. Vágyálomrendszerünk része, hogy a programunk a felhasználó által megadott adatbázisok segítségével grafikusan és számadatokkal is megjelenítse legtöbb neurális hálózat hatékonyságát, pontosságát. A felhasználó egy tallózás után már nyomon is követheti a gépi tanulási folyamatot majd megtekintheti eredményeit, kiválaszthatja, hogy melyik neurális hálózat a legjobb az adott problémára. 
 
 ## 4. Funkcionális követelmények
+A projekt egy webes alkalmazás, amihez Google Colab-ot használunk, így funkcionális követelménynek mondható, hogy a felhasználó számítógépe képes legyen internet eléréshez.
+
+Egyéb követelményekről (2022.03.01) nem beszélhetünk.
 
 ## 5. Rendszerre vonatkozó törvények, szabványok, ajánlások
 
