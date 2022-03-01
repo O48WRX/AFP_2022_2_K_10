@@ -16,6 +16,7 @@ A csoport célja egy kimutatáskészítő programot létrehozni, amelynek felül
 Az alkalmazásunk létrehozásának alapfeltétele, hogy Python programozási nyelven, illetve annak valamilyen keretrendszerében készítsük a programot és a kezelőfelületét (a választásunk a [PROGRAMOKAT IDE] esett könnyű kezelhetőségük miatt), valamint egy adatbázisfájl, ami lehet sql vagy csv kiterjesztésű is.
 
 ## 5. Jelenlegi üzleti folyamatok modellje
+A gépi tanulási algoritmusok használatára kevés olyan online platform van ami egyszerűen használható, komoly hátrányuk a bonyolult regisztráció és a túlkomplikált kezelőfelület. Mindezek tekintetében arra jutottunk, hogy egy ingyenes, regisztrációmentes, könnyen kezelhető machine learning programot hozunk létre, amely egyszerű kezelőfelülettel rendelkezik, mégis minőségi kimutatásokat lehet benne létrehozni. 
 
 ## 6. Igényelt üzleti folyamatok modellje
 
