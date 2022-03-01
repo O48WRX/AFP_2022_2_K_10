@@ -10,6 +10,7 @@ Az alkalmazás a webhelyén bármikor elérhető, ezáltal internetelérést ig�
 A megrendelő egy böngészőben elérhető programot szeretne, amely egy, a felhasználó által megadott adatbázisra alkalmaz egy gépi tanulási algoritmust. Az említett alkalmazást a megrendelő szabadon akarja felhasználni, összesen egy böngésző felhasználásával. Az ügyfél ragaszkodott egy egyszerű, kevés beletanulást igénylő felülethez, ami azoknak is könnyűvé teszi a kimutatás elkészítését, akik semmilyen statisztikai vagy algoritmushasználó tapasztalattal nem rendelkeznek. Jelenleg a program létrehozásához, elkészítéséhez szükséges adatokat, tevékenységeket discord segítségével, minden héten, hetente többször is egyeztetjük.
 
 ## 3. Vágyálom rendszer
+A csoport célja egy kimutatáskészítő programot létrehozni, amelynek felületén beállítható a kezelendő adatbázis, illetve a használandó algoritmus, néhány elérhető választás közül, valamint a kért számolások száma. Ezek kiválasztása után az algoritmus elvégzi a műveleteket a beállított szám szerint, és kijelzi a számolt eredményeket a kezelőfelületen. A kimutatás elkészítése előtt be kell még állítani egy tanuló adatbázist, ami alapján a választott ML algoritmus képes tanulni, és az abban észlelt minták alapján elvégzendő műveleteket meghatározni. A célunk a lehető legkevesebb kezelhető felülettel egy széleskörűen alkalmazható gépi tanulási program létrehozása.
 
 ## 4. Feltételek
 
