@@ -17,3 +17,5 @@
 ## 8. Tesztterv
 
 ## 9. Telepítési terv
+
+## 10. Karbantartási terv
