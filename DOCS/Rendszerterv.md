@@ -16,6 +16,7 @@ A projekt nem különül el front end és backend részre, mivel nem rendelkezik
                 -Felelősök: Kardos Zsolt (O48WRX), Balogh Mihály Viktor (GUFVXA), Riczkó Henrik (D5GPJ6), Hadobás Dávid (TB3376)
 
 ## 4. Üzleti folyamatok modellje
+//!!!TODO RAJZ!!!!
 
 ## 5. Fizikai környezet
 
