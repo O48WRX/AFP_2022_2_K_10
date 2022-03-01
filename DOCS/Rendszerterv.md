@@ -11,3 +11,5 @@
 ## 5. Fizikai környezet
 
 ## 6. Funkcionális terv
+
+## 7. Architekturális terv
