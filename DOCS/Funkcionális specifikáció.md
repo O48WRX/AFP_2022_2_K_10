@@ -31,3 +31,16 @@ A felhasználó az alábbi tevékenységeket végezheti:
 ## 8. Képernyőtervek
 
 ## 9. Forgatókönyvek
+
+### Kimutatáskészítés forgatókönyve
+Szereplők: a böngészőalapú alkalmazás
+
+Az alkalmazás elindításakor a program beolvassa a tanulóadatbázist, a számolandó adattáblát és a használandó algoritmust.
+
+A felhasználó által végezhető műveletek:
+- Tanulóalgoritmus kiválasztása
+- Tanulóadatbázis beállítása
+- Számolandó adatbázis feltöltése
+- Tanulási folyamat elindítása
+
+Amennyiben a felhasználó végzett a kimutatáskészítéssel, a böngészőlap bezárásával ki tud lépni a programból
