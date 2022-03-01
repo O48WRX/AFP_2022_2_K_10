@@ -21,6 +21,7 @@ Egyéb követelményekről (2022.03.01) nem beszélhetünk.
 A projekt egy szimpla webes alkalmazásnak felel meg, ami egyetemi hallgatói licensszel készül egyetemi kurzusra, így sem legálisan, sem morálisan nem lenne megfelelő a csapat részéről, ha nem ingyenesen és open-source fejlesztésben végeznénk.
 
 ## 6. Jelenlegi üzleti folyamatok modellje
+A neurális hálozatok és gépi tanulás folyamatainak megértéséhez egyetemi kurzusokat, több hónapos tanulást igényel. Ahoz, hogy meg tudjuk érteni szükség van arra, hogy tesztelni tudjuk milyen problémára milyen neurális hálózat lenne a legmegfelelőbb hatékonyság és pontosság szempontjából. Erre készült programok általában fizetősek vagy nehezen kezelhetőek, és emiatt sokan felhagynak a gépi tanulás megértésével. 
 
 ## 7. Igényelt üzleti folyamatok modellje
 
