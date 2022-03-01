@@ -11,3 +11,5 @@
 ## 5. Jelenlegi üzleti folyamatok modellje
 
 ## 6. Igényelt üzleti folyamatok modellje
+
+## 7. Használati esetek
