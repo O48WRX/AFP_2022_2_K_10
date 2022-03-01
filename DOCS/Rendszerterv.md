@@ -15,3 +15,5 @@
 ## 7. Architekturális terv
 
 ## 8. Tesztterv
+
+## 9. Telepítési terv
