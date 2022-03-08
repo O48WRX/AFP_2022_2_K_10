@@ -1,3 +1,4 @@
 # AFP_2022_2_K_10
 
-xd
+Link:
+tinyurl.com/AFP2link
