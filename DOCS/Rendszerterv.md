@@ -18,6 +18,9 @@ A projekt nem különül el front end és backend részre, mivel nem rendelkezik
 ## 4. Üzleti folyamatok modellje
 //!!!TODO RAJZ!!!!
 
+![xd drawio](https://user-images.githubusercontent.com/91184812/161714633-67e32b20-44ed-4539-a6eb-e5a67a28b014.png)
+
+
 ## 5. Fizikai környezet
 A rendszer megvalósítására Python-t fogunk használni a Google Colab segítségével.
 Minimális gépigényre van szükség, mivel a kód a Google szerverein fog futni. Így a felhasználónak egy böngésző futtatására kell eléggé felszerelt géppel rendelkeznie.
