@@ -16,7 +16,10 @@ A projekt nem különül el front end és backend részre, mivel nem rendelkezik
                 -Felelősök: Kardos Zsolt (O48WRX), Balogh Mihály Viktor (GUFVXA), Riczkó Henrik (D5GPJ6), Hadobás Dávid (TB3376)
 
 ## 4. Üzleti folyamatok modellje
-//!!!TODO RAJZ!!!!
+
+![xd drawio](https://user-images.githubusercontent.com/91184812/161716198-6e504275-c0ab-4393-b6cb-94d18382ab07.png)
+
+
 
 ## 5. Fizikai környezet
 A rendszer megvalósítására Python-t fogunk használni a Google Colab segítségével.

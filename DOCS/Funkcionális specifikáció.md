@@ -29,6 +29,7 @@ A felhasználó az alábbi tevékenységeket végezheti:
 - A tanulási folyamat elindítása
 
 ## 8. Képernyőtervek
+![Képernyőterv](https://user-images.githubusercontent.com/82958011/162922588-24df4d44-1717-4bf9-b189-544f64494bbe.png)
 
 ## 9. Forgatókönyvek
 
