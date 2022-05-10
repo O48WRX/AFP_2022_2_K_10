@@ -62,3 +62,18 @@ A tesztelést és hibajavítűst mind a 4 fejlesztőre kiosztottuk, a saját ter
 | 1. | **CSV funkciók tesztje** | A program CSV fájlokat nem tudott olvasni, mert a felhasznált fájl változó elemszámú sorokat tartalmaz, így átmenetileg ez a funkció ejtve lett |
 | 2. | **Programtabok tesztje** | A fejlesztői környezetben a két programkódfelület nem megfelelően kötődött össze eleinte, ez javítva lett |
 
+## 4.4 Riczkó Henrik
+
+### Sikeres Tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **Drop-down listek működése** | A program drop-down list funkciójának működését teszteltem. |
+| 2. | **Neurális Hálók pontossága** | A végeredmények megfelelő keretek közt voltak, a neu.hálók működése megfelelő. |
+
+### Hibás tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **Paraméterek megkötése** | A program a beolvasott paramétereket nem megfelelően kezelte de ez javítva lett |
+| 2. | **Drop-down list megjelenés** | A drop-down listek néhány böngészőben nem jelentek meg megfelelően. Ez később javítva lett. |
