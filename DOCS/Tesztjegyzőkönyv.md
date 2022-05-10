@@ -9,3 +9,24 @@ Ahogy a bevezetésben is leírtuk,a tesztelés legfontosabb célja, hogy a fejle
 #### -Riczkó Henrik - D5GPJ6
 #### -Balogh Mihály Viktor - GUFVXA
 #### -Hadobás Dávid - TB3376
+
+## 4. Tesztek
+A tesztelést és hibajavítűst mind a 4 fejlesztőre kiosztottuk, a saját terület-felelősségük alapján.
+
+## 4.1 Kardos Zsolt
+
+### Sikeres Tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **Logikai teszt** | A program logikai hátterének sikeres működéstesztje. |
+| 2. | **Függvény teszt** | A program függvényeinek működésének és helyes meghívásának sikeres tesztje. |
+| 3. | **Neurális Háló teszt** | A neurális háló tanulásának tesztje. |
+| 4. | **Paraméter beolvasás tesztje** | Az algoritmus paraméterbeolvasásának tesztje. |
+
+### Hibás tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **Crash Course teszt** | A programnak a paraméterek megadásakor abszurd paramétereket adtunk meg, és ez megzavarta a program helyes működését. |
+| 3. | **Súlyozott teszt** | Az algoritmusoknak sokfajta súlyozást adtunk meg és ez megzavarta a működését. |
