@@ -45,3 +45,20 @@ A tesztelést és hibajavítűst mind a 4 fejlesztőre kiosztottuk, a saját ter
 | Sorszám | Teszt neve | Leírása |
 |---|---|---|
 | 1. | **Felületi hiba** | A program felületén nem megfelelően jelentek meg a program végeredményei. |
+
+## 4.3 Hadobás Dávid
+
+### Sikeres Tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **Felhasználói felület használhatósága** | A program minden (felhasználó által kezelhető) eleme megfelelően jelenik meg és használatra alkalmas. |
+| 2. | **Egységteszt** | A program megfelelő működése a vissza gombok megnyomásakor sem szakad meg. |
+
+### Hibás tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **CSV funkciók tesztje** | A program CSV fájlokat nem tudott olvasni, mert a felhasznált fájl változó elemszámú sorokat tartalmaz, így átmenetileg ez a funkció ejtve lett |
+| 2. | **Programtabok tesztje** | A fejlesztői környezetben a két programkódfelület nem megfelelően kötődött össze eleinte, ez javítva lett |
+
