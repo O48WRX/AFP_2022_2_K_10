@@ -30,3 +30,18 @@ A tesztelést és hibajavítűst mind a 4 fejlesztőre kiosztottuk, a saját ter
 |---|---|---|
 | 1. | **Crash Course teszt** | A programnak a paraméterek megadásakor abszurd paramétereket adtunk meg, és ez megzavarta a program helyes működését. |
 | 3. | **Súlyozott teszt** | Az algoritmusoknak sokfajta súlyozást adtunk meg és ez megzavarta a működését. |
+
+## 4.2 Balogh Mihály Viktor
+
+### Sikeres Tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **Hibák kiirása** | A program lehetséges esetek, amik nem elfogadottak, feltüntettem. |
+| 2. | **Tesztelés hibákkal** | Hibákkal együtti tesztfolyamatot elvégeztem. |
+
+### Hibás tesztek
+
+| Sorszám | Teszt neve | Leírása |
+|---|---|---|
+| 1. | **Felületi hiba** | A program felületén nem megfelelően jelentek meg a program végeredményei. |
